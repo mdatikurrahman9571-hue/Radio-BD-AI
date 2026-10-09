@@ -1,0 +1,8 @@
+{
+  "name": "Radio Bangla AI - বাংলাদেশ এআই টক রেডিও",
+  "description": "বাংলাদেশের প্রথম এআই রেডিও স্টেশন - আরজে আড্ডা, লাইভ কলার্স, মেট্রো রেল, প্রযুক্তি ও খেলাধুলার জমজমাট আলোচনা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
